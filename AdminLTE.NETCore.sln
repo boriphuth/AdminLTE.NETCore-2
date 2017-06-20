@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminLTE.NETCore", "src\Adm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminPanel", "AdminPanel\AdminPanel.csproj", "{77CDF1CD-E5A7-4B69-884E-3B2775518784}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1APP.Core", "1APP.Core", "{26D34D1F-5457-4974-AD4A-29D8B1C30B73}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_APP.Core", "1_APP.Core", "{26D34D1F-5457-4974-AD4A-29D8B1C30B73}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2APP.ApplicationService", "2APP.ApplicationService", "{BD4AEB0C-2FBD-4EDF-A819-EF4205EBC041}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_APP.ApplicationService", "2_APP.ApplicationService", "{BD4AEB0C-2FBD-4EDF-A819-EF4205EBC041}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3APP.EntityFramework", "3APP.EntityFramework", "{44BD8477-31AD-48C9-A0EF-51DA21496CF5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_APP.EntityFramework", "3_APP.EntityFramework", "{44BD8477-31AD-48C9-A0EF-51DA21496CF5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP.Core", "APP.Core\APP.Core.csproj", "{58E59064-A28D-4A11-8C00-5881F6370272}"
 EndProject
@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP.ApplicationService", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP.EntityFramework", "APP.EntityFramework\APP.EntityFramework.csproj", "{FE2F38C9-D5C7-4E66-A7F5-512FF9B9AA38}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0APP.FrameworkBase", "0APP.FrameworkBase", "{36C56328-BC43-4531-B8C3-25C595ABEB13}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0_APP.FrameworkBase", "0_APP.FrameworkBase", "{36C56328-BC43-4531-B8C3-25C595ABEB13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
