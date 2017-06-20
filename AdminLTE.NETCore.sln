@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0EA4A6E3-DDEC-426F-9892-8687F5490A7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminLTE.NETCore", "src\AdminLTE.NETCore\AdminLTE.NETCore.csproj", "{A3D6B92F-4C4D-4345-A912-9B40332B7506}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminPanel", "AdminPanel\AdminPanel.csproj", "{77CDF1CD-E5A7-4B69-884E-3B2775518784}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1APP.Core", "1APP.Core", "{26D34D1F-5457-4974-AD4A-29D8B1C30B73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2APP.ApplicationService", "2APP.ApplicationService", "{BD4AEB0C-2FBD-4EDF-A819-EF4205EBC041}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3APP.EntityFramework", "3APP.EntityFramework", "{44BD8477-31AD-48C9-A0EF-51DA21496CF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP.Core", "APP.Core\APP.Core.csproj", "{58E59064-A28D-4A11-8C00-5881F6370272}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP.ApplicationService", "APP.ApplicationService\APP.ApplicationService.csproj", "{6DD5536D-F7D0-4236-96FA-9DB1D1EBED3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP.EntityFramework", "APP.EntityFramework\APP.EntityFramework.csproj", "{FE2F38C9-D5C7-4E66-A7F5-512FF9B9AA38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0APP.FrameworkBase", "0APP.FrameworkBase", "{36C56328-BC43-4531-B8C3-25C595ABEB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D6B92F-4C4D-4345-A912-9B40332B7506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D6B92F-4C4D-4345-A912-9B40332B7506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D6B92F-4C4D-4345-A912-9B40332B7506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D6B92F-4C4D-4345-A912-9B40332B7506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CDF1CD-E5A7-4B69-884E-3B2775518784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CDF1CD-E5A7-4B69-884E-3B2775518784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CDF1CD-E5A7-4B69-884E-3B2775518784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CDF1CD-E5A7-4B69-884E-3B2775518784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E59064-A28D-4A11-8C00-5881F6370272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E59064-A28D-4A11-8C00-5881F6370272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E59064-A28D-4A11-8C00-5881F6370272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E59064-A28D-4A11-8C00-5881F6370272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD5536D-F7D0-4236-96FA-9DB1D1EBED3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD5536D-F7D0-4236-96FA-9DB1D1EBED3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD5536D-F7D0-4236-96FA-9DB1D1EBED3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD5536D-F7D0-4236-96FA-9DB1D1EBED3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2F38C9-D5C7-4E66-A7F5-512FF9B9AA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2F38C9-D5C7-4E66-A7F5-512FF9B9AA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2F38C9-D5C7-4E66-A7F5-512FF9B9AA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2F38C9-D5C7-4E66-A7F5-512FF9B9AA38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3D6B92F-4C4D-4345-A912-9B40332B7506} = {0EA4A6E3-DDEC-426F-9892-8687F5490A7C}
+		{58E59064-A28D-4A11-8C00-5881F6370272} = {26D34D1F-5457-4974-AD4A-29D8B1C30B73}
+		{6DD5536D-F7D0-4236-96FA-9DB1D1EBED3A} = {BD4AEB0C-2FBD-4EDF-A819-EF4205EBC041}
+		{FE2F38C9-D5C7-4E66-A7F5-512FF9B9AA38} = {44BD8477-31AD-48C9-A0EF-51DA21496CF5}
+	EndGlobalSection
+EndGlobal
