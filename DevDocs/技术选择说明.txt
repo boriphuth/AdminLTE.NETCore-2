@@ -1,0 +1,6 @@
+﻿1.使用领域驱动设计（DDD）
+2.依赖注入框架     （AutoFac）
+3.后台任务调度    （hangfire）
+4.面向切面编程AOP  （Castle，考虑可能会用Castle Windsor依赖注入框架 ）
+5.EFCore CodeFrist
+  ...
