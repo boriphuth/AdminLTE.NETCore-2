@@ -7,9 +7,9 @@ namespace APP.Core.Entities
     /// <summary>
     /// 数据库实体的基类,要审核的实体都要继承该类
     /// </summary>
-   public class FullAuditedEntity
+   public class FullAuditedEntity:APPEntity
     {
-        public int Id  { get; set; }
+       
         public DateTime CreationTime { get; set; }
         public int? CreatorUserId { get; set; }
         public int? LastModifierUserId { get; set; }
