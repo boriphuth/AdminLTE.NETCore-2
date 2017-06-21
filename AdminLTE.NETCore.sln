@@ -25,6 +25,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0_APP.FrameworkBase", "0_AP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDocs", "DevDocs\DevDocs.csproj", "{2D54DE0A-0987-49FD-B83F-6A1690B7EBB4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_APP.ViewModels", "4_APP.ViewModels", "{78EDE646-1AF8-4214-B284-E3048D2661C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_APP.Jobs", "5_APP.Jobs", "{4DAC210B-0449-43B1-8C76-FA145B82C3C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6_APP.Reports", "6_APP.Reports", "{C746BADC-0EE7-47C2-9E32-3C91A817623B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_APP.Notification", "7_APP.Notification", "{42732914-D909-4B5C-AB27-9D849AFF85D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
